@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGestores", "ApiGestores\ApiGestores.csproj", "{DA043803-187A-4E8B-8AC9-F6168A47AFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA043803-187A-4E8B-8AC9-F6168A47AFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA043803-187A-4E8B-8AC9-F6168A47AFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA043803-187A-4E8B-8AC9-F6168A47AFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA043803-187A-4E8B-8AC9-F6168A47AFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C735946A-0CD5-4EAE-B26D-38185B060584}
+	EndGlobalSection
+EndGlobal
